@@ -1,2 +1,0 @@
-# JogodeProbabilidade
-Created with CodeSandbox
